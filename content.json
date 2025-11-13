@@ -9,6 +9,16 @@
       "title": "Sintel",
       "thumb": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/Sintel.jpg",
       "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4"
+    },
+	{
+      "title": "Big Buck Bunny 2",
+      "thumb": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/BigBuckBunny.jpg",
+      "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4"
+    },
+	{
+      "title": "Sintel 2",
+      "thumb": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/Sintel.jpg",
+      "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/Sintel.mp4"
     }
   ],
   "sections": [
@@ -44,4 +54,3 @@
     }
   ]
 }
-
